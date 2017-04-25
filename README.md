@@ -1,4 +1,7 @@
-# test coverage for  [stringify (v5.1.0)](https://github.com/JohnPostlethwait/stringify#readme)  [![npm package](https://img.shields.io/npm/v/npmtest-stringify.svg?style=flat-square)](https://www.npmjs.org/package/npmtest-stringify) [![travis-ci.org build-status](https://api.travis-ci.org/npmtest/node-npmtest-stringify.svg)](https://travis-ci.org/npmtest/node-npmtest-stringify)
+# npmtest-stringify
+
+#### basic test coverage for  [stringify (v5.1.0)](https://github.com/JohnPostlethwait/stringify#readme)  [![npm package](https://img.shields.io/npm/v/npmtest-stringify.svg?style=flat-square)](https://www.npmjs.org/package/npmtest-stringify) [![travis-ci.org build-status](https://api.travis-ci.org/npmtest/node-npmtest-stringify.svg)](https://travis-ci.org/npmtest/node-npmtest-stringify)
+
 #### Browserify middleware to be able to require() text files (including templates) inside of your client-side JavaScript files.
 
 [![NPM](https://nodei.co/npm/stringify.png?downloads=true&downloadRank=true&stars=true)](https://www.npmjs.com/package/stringify)
@@ -7,7 +10,7 @@
 |--:|:--|
 | coverage : | [![istanbul-coverage](https://npmtest.github.io/node-npmtest-stringify/build/coverage.badge.svg)](https://npmtest.github.io/node-npmtest-stringify/build/coverage.html/index.html)|
 | test-report : | [![test-report](https://npmtest.github.io/node-npmtest-stringify/build/test-report.badge.svg)](https://npmtest.github.io/node-npmtest-stringify/build/test-report.html)|
-| build-artifacts : | [![build-artifacts](https://npmtest.github.io/node-npmtest-stringify/glyphicons_144_folder_open.png)](https://github.com/npmtest/node-npmtest-stringify/tree/gh-pages/build)|
+| test-server-github : | [![github.com test-server](https://npmtest.github.io/node-npmtest-stringify/GitHub-Mark-32px.png)](https://npmtest.github.io/node-npmtest-stringify/build/app/index.html) | | build-artifacts : | [![build-artifacts](https://npmtest.github.io/node-npmtest-stringify/glyphicons_144_folder_open.png)](https://github.com/npmtest/node-npmtest-stringify/tree/gh-pages/build)|
 
 - [https://npmtest.github.io/node-npmtest-stringify/build/coverage.html/index.html](https://npmtest.github.io/node-npmtest-stringify/build/coverage.html/index.html)
 
@@ -109,7 +112,8 @@
     },
     "scripts": {},
     "version": "5.1.0",
-    "website": "http://johnpostlethwait.github.com/stringify/"
+    "website": "http://johnpostlethwait.github.com/stringify/",
+    "bin": {}
 }
 ```
 
